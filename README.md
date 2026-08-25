@@ -7,7 +7,6 @@ Follow these steps to prevent issues syncing with this repository. You should on
 2. In your forked copy, click the green "Code" button then click "Create codespace on main".
 3. In your codespace's terminal, enter the following two commands one at a time:
 
-<pre>
-pip install --upgrade nbstripout<br />
-nbstripout --install
-</pre>
+`pip install --upgrade nbstripout
+`nbstripout --install
+
