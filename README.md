@@ -8,6 +8,5 @@ Follow these steps to prevent issues syncing with this repository. You should on
 3. In your codespace's terminal, enter the following two commands one at a time:
 
 `pip install --upgrade nbstripout
-
-`nbstripout --install
+nbstripout --install
 
